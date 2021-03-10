@@ -1,0 +1,67 @@
+#nprogress .bar {
+    background: red !important;
+}
+
+.register-heading {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    padding-bottom: 15px;
+}
+
+.nav a:hover {
+    border-radius: 5px;
+    border-color: rgb(110, 110, 241) !important;
+}
+
+.margin {
+    margin-left: auto;
+}
+
+
+.custom {
+    text-decoration: none;
+}
+
+
+.ttt {
+    border-radius: 5px;
+    background-color: aqua;
+}
+
+.box {
+    margin-bottom: 25px;
+	width: 600px !important;
+	background: #fff;
+	padding: 20px;
+	position: relative;
+}
+
+.box:after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: -10px;
+    margin: -10px 0 0;
+    border-right: 10px solid #fff;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+}
+
+
+
+.filter-drop-shadow {
+    -webkit-filter: drop-shadow(0 1px 5px rgba(0,0,0,.5));
+	-moz-filter: drop-shadow(0 1px 5px rgba(0,0,0,.5));
+	-ms-filter: drop-shadow(0 1px 5px rgba(0,0,0,.5));
+	-o-filter: drop-shadow(0 1px 5px rgba(0,0,0,.5));
+	filter: drop-shadow(0 1px 5px rgba(0,0,0,.5));
+}
+
+
+
+.custom-image {
+    width: 50px;
+    height: 50px;
+}
